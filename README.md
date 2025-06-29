@@ -1,2 +1,17 @@
-# OIBSIP_WebDevelopment1_Task1
-The Landing Page is a visually appealing and responsive single-page website designed using HTML and CSS. It features a structured layout with sections like header, about, services, and contact. This project demonstrates basic web design skills and emphasizes clean UI, proper alignment, and responsive design principles.
+# OIBSIP_WebDevelopment_Task1 - Landing Page
+
+## Description
+
+A simple and responsive landing page built using HTML and CSS. It includes sections like header, about, services, and contact.
+
+## Tools Used
+
+- HTML
+- CSS
+
+## Features
+
+- Clean layout
+- Responsive design
+- Easy navigation
+
